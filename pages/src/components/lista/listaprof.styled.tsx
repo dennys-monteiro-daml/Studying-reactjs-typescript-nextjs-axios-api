@@ -12,7 +12,7 @@ export const ListaStyled = styled('ul')`
   gap: ${({theme}) => theme.spacing(9)};
 
   ${({theme}) => theme.breakpoints.down('sm')}{
-    grid-template-columns: 2fr;
+    grid-template-columns: 1fr;
     gap: ${({theme}) => theme.spacing(8)};
   };
 `;
