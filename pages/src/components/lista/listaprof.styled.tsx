@@ -17,6 +17,12 @@ export const ListaStyled = styled('ul')`
   };
 `;
 
+//** Mudar o NoResults para pesquisa global! */
+export const NoResults = styled('h2')`
+  text-align: center;
+  padding: ${({theme}) => theme.spacing(0, 20)};
+`;
+
 export const Items = styled('li')`
   list-style: none;
 `;
@@ -39,6 +45,6 @@ export const Value = styled('p')`
   color: ${(theme) => theme.theme.palette.primary.main}
 `;
 
-export const Description = styled('p')`
-  word-break: break-word;
+export const Dscrpt = styled('p')`
+  word-break: break-dow;
 `;
