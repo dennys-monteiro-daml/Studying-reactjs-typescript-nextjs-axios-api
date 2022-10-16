@@ -11,8 +11,8 @@ const ListaProf = () => {
           <Name>Dennys Monteiro</Name>
           <Value>$15.600 a year or $1.400 a month, or $40.00 a hour.</Value>
           <Description></Description>
-          <Button>Send me a menssage!</Button>
-          <Button>Another Button!</Button>
+          <Button sx= {{ width: '85%' }}>Send me a menssage!</Button>
+          <Button sx= {{ width: '85%' }}>Another Button!</Button>
         </Info>
       </Items>
       <Items>
@@ -21,8 +21,8 @@ const ListaProf = () => {
           <Name>Dennys Monteiro</Name>
           <Value>$15.600 a year or $1.400 a month, or $40.00 a hour.</Value>
           <Description></Description>
-          <Button>Send me a menssage!</Button>
-          <Button>Another Button!</Button>
+          <Button sx= {{ width: '85%' }}>Send me a menssage!</Button>
+          <Button sx= {{ width: '85%' }}>Another Button!</Button>
         </Info>
       </Items>
       <Items>
@@ -31,8 +31,8 @@ const ListaProf = () => {
           <Name>Dennys Monteiro</Name>
           <Value>$15.600 a year or $1.400 a month, or $40.00 a hour.</Value>
           <Description></Description>
-          <Button>Send me a menssage!</Button>
-          <Button>Another Button!</Button>
+          <Button sx= {{ width: '85%' }}>Send me a menssage!</Button>
+          <Button sx= {{ width: '85%' }}>Another Button!</Button>
         </Info>
       </Items>
       <Items>
@@ -41,8 +41,8 @@ const ListaProf = () => {
           <Name>Dennys Monteiro</Name>
           <Value>$15.600 a year or $1.400 a month, or $40.00 a hour.</Value>
           <Description></Description>
-          <Button>Send me a menssage!</Button>
-          <Button>Another Button!</Button>
+          <Button sx= {{ width: '85%' }}>Send me a menssage!</Button>
+          <Button sx= {{ width: '85%' }}>Another Button!</Button>
         </Info>
       </Items>
     </ListaStyled>
